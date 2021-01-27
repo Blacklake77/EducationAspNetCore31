@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Blacklake\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Blacklake\\.nuget\\packages"
+    ]
+  }
+}
